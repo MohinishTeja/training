@@ -1,0 +1,30 @@
+git init
+
+dir
+
+type file.extension
+
+git status
+
+git add file.extension
+
+git status
+
+git commit -m "intial commit"
+
+git status
+
+git log
+
+git remote add origin --link--
+
+
+git branch -M main
+
+
+git push -u origin main
+
+
+-----------Branches----------------
+
+
